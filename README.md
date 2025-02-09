@@ -1,7 +1,4 @@
 # Gaming-PC-Build
-Built in early 2024, PC gaming rig using my old/transferred GTX 3080. Hope this guide assist you in your PC building Journey!
-
-# Gaming-PC-Build
 Built in early 2024, PC gaming rig using my old/transferred GTX 3080. Runs most Modern AAA titles at 4k with modified graphics settings. Daily drive for productivity and gaming.
 # Gaming PC Build
 
