@@ -1,6 +1,5 @@
 # Gaming-PC-Build
 Built in early 2024, PC gaming rig using my old/transferred GTX 3080. Runs most Modern AAA titles at 4k with modified graphics settings. Daily drive for productivity and gaming.
-# Gaming PC Build
 
 ## Overview
 This repository documents my gaming PC build, including the components used, the build process, and tips for assembling a gaming PC.
