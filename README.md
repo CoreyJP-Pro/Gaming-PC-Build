@@ -2,7 +2,7 @@
 Built in early 2024, PC gaming rig using my old/transferred GTX 3080. Runs most Modern AAA titles at 4k with modified graphics settings. Daily drive for productivity and gaming.
 
 ## Overview
-This repository documents my gaming PC build, including the components used, the build process, and tips for assembling a gaming PC.
+This repository documents my gaming PC build, including the components used, the build process, and tips for assembling a gaming PC. Feel free to apply the same steps into your build with your components.
 
 ## Components
 Here is a list of the components I used for my gaming PC build:
@@ -41,7 +41,8 @@ Follow these steps to assemble the gaming PC:
 - **BIOS Update:** Check for and install any BIOS updates for your motherboard.
 
 ## Photos
-Include photos of the build process and the final setup.
+![pc photo 1](https://github.com/user-attachments/assets/23ac6aac-f41e-4786-9600-6f5a7ab006e0)
+![pc photo 2](https://github.com/user-attachments/assets/4c9ac2c0-5fcd-44dc-9eb1-9c92d8fa8be2)
 
 ## Conclusion
 This project was a great learning experience, and I hope it helps others who are looking to build their own gaming PC. Feel free to open issues or submit pull requests if you have any suggestions or improvements
